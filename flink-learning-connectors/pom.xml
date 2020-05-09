@@ -31,7 +31,7 @@
         <module>flink-learning-connectors-gcp-pubsub</module>
         <module>flink-learning-connectors-nifi</module>
         <module>flink-learning-connectors-pulsar</module>
-		<module>flink-learning-connectors-jdbc</module>
+		<!--module>flink-learning-connectors-jdbc</module-->
 		<module>flink-learning-connectors-es</module>
 		<!--<module>flink-learning-connectors-kinesis</module>-->
     </modules>
